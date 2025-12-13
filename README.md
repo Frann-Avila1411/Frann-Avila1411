@@ -1,63 +1,46 @@
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/2e/41/3b/2e413b52ae8c4df39062ac21f46c9aa7.gif"  />
-</div>
+# 👨‍💻 Frann Avila  
+**Estudiante de Ingeniería en Desarrollo de Software | Frontend Developer**
 
-###
+---
 
-<br clear="both">
+## Sobre mí
 
-<p align="center">Hello world!! 🌐<br>༼ つ ◕_◕ ༽つ<br>My name is Frann Avila. <br>I am a student of Software Development Engineering. 👨‍💻<br>Learning and practicing in this interesting world of programming.<br>I'm also venturing into the world of Cybersecurity👾🤖</p>
+Soy estudiante de **cuarto año de Ingeniería en Desarrollo de Software**, con un enfoque principal en el **desarrollo frontend**, creando interfaces funcionales, claras y orientadas a la experiencia del usuario.
 
-###
+Paralelamente, me encuentro en preparación continua en **backend**, desarrollando APIs REST y trabajando con bases de datos, lo que me permite comprender el flujo completo de una aplicación y facilitar una integración frontend–backend sólida y eficiente.
 
-<br clear="both">
+---
 
-<div align="center">
-  <a href="https://www.instagram.com/frann14.11/?igsh=YTFmMnN1cGpueW81" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/Frann23" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
+## 🛠️ Tecnologías
 
-###
+### Frontend
+- HTML5  
+- CSS3  
+- Bootstrap  
+- JavaScript (ES6+)  
+- Node.js  
 
-<br clear="both">
+### Backend
+- Python  
+- Django REST Framework  
+- Java con Spring Boot (API REST)  
+- PostgreSQL  
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+### Herramientas y Entorno
+- Docker  
+- Git & GitHub  
+- Linux  
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frann1411&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frann1411&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 🎯 Enfoque actual
 
-###
+- Desarrollo de interfaces web
+- JavaScript moderno y buenas prácticas
+- Diseño responsive y accesibilidad
+- Consumo de APIs REST desde el frontend
+- Profundización progresiva en backend y bases de datos
+  
+---
+
+> *Comprometido con el aprendizaje continuo, el código limpio y el crecimiento profesional en el desarrollo de software.*

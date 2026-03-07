@@ -5,20 +5,22 @@
 
 ## Sobre mí
 
-Soy estudiante de **cuarto año de Ingeniería en Desarrollo de Software**, con un enfoque principal en el **desarrollo frontend**, creando interfaces funcionales, claras y orientadas a la experiencia del usuario.
+Soy estudiante de **quinto año de Ingeniería en Desarrollo de Software**, con un enfoque principal en el **desarrollo frontend**, creando interfaces funcionales, claras y orientadas a la experiencia del usuario.
 
 Paralelamente, me encuentro en preparación continua en **backend**, desarrollando APIs REST y trabajando con bases de datos, lo que me permite comprender el flujo completo de una aplicación y facilitar una integración frontend–backend sólida y eficiente.
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 ### Frontend
 - HTML5  
 - CSS3  
 - Bootstrap  
 - JavaScript (ES6+)  
-- Node.js  
+- Node.js
+- React
+- React Native
 
 ### Backend
 - Python  
@@ -33,7 +35,7 @@ Paralelamente, me encuentro en preparación continua en **backend**, desarrollan
 
 ---
 
-## 🎯 Enfoque actual
+## Enfoque actual
 
 - Desarrollo de interfaces web
 - JavaScript moderno y buenas prácticas

@@ -1,4 +1,4 @@
-# 👨‍💻 Frann Avila  
+# Frann Avila  
 **Estudiante de Ingeniería en Desarrollo de Software | Frontend Developer**
 
 ---

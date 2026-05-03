@@ -17,7 +17,8 @@ Paralelamente, me encuentro en preparación continua en **backend**, desarrollan
 - HTML5  
 - CSS3  
 - Bootstrap  
-- JavaScript (ES6+)  
+- JavaScript (ES6+)
+- TypeScript 
 - Node.js
 - React
 - React Native
